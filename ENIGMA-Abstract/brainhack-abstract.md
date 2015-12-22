@@ -20,19 +20,19 @@ author:
 - initials: MB
   surname: Borich
   firstname: Michael
-  email: 
+  email: michael.borich@emory.edu
   affiliation: aff3
   corref: aff3
 - initials: NJ
   surname: Jahanshad
   firstname: Neda
-  email: 
+  email: Neda.Jahanshad@ini.usc.edu
   affiliation: aff4
   corref: aff4
 - initials: PT
   surname: Thompson
   firstname: Paul
-  email: 
+  email: thompson@loni.usc.edu
   affiliation: aff4
   corref: aff4
   - initials: SLL
