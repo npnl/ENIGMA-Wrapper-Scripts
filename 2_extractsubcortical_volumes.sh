@@ -93,7 +93,7 @@ fi
 mkdir ${enigmadir}/outputs/subcortical/QC  #JA
 
 export mdir=${enigmadir}/enigma_wrapscripts/Matlab
-export fsdir=${enigmadir}/outputs/
+export fsdir=${enigmadir}/outputs
 export qcdir=${enigmadir}/outputs/subcortical/QC  #JA
 
 for x in `ls -d ${fsdir}/*subj*`
